@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Excel Files
+data/*.xlsx
+data/*.xls
+output/*.xlsx
+output/*.xls
